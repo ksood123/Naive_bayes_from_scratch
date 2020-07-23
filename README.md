@@ -5,3 +5,4 @@ variable with '0' and '1' indicating negative and positive results for person ha
 2) There are two data sets-'naive_dataset_train' and 'naive_dataset_test' and both have been generated using te same source code.
 3) We load both datasets and output the training and testing accuracy. The specificity and sensitivity has also been calculated using
 'classification_report' from 'sklearn.metrics'.
+4) Naive Bayes has beauty of its own due to the fact that it works best despite the fact that we make a Naive assumption about the working of the algorithm.
